@@ -165,3 +165,67 @@ nav {
   border: 2px dashed var(--primary-color);
   text-align: center;
 }
+.header__content h1 {
+  font-size: 4.5rem;
+  font-weight: 500;
+  font-family: var(--header-font-1);
+  color: var(--primary-color);
+  line-height: 3.5rem;
+  text-align: center;
+  text-shadow: 2px 2px var(--white);
+}
+
+.header__content h1 span {
+  font-size: 3rem;
+}
+
+.banner__container {
+  display: grid;
+  gap: 1rem;
+  grid-auto-rows: 200px;
+}
+
+.banner__card {
+  padding: 1rem;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 1rem;
+}
+
+.banner__card:nth-child(1) {
+  background-image: url("assets/banner-1.jpg");
+}
+
+.banner__card:nth-child(2) {
+  background-image: url("assets/banner-2.jpg");
+}
+
+.banner__card:nth-child(3) {
+  background-image: url("assets/banner-3.jpg");
+}
+
+.banner__card p {
+  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: var(--white);
+}
+
+.banner__card h4 {
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--white);
+}
+
+.order__container h3 {
+  max-width: fit-content;
+  margin-inline: auto;
+  margin-bottom: 1rem;
+  padding: 0.5rem 2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-family: var(--header-font-2);
+  color: var(--primary-color);
+  background-color: var(--secondary-color);
+}
