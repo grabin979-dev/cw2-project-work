@@ -123,3 +123,7 @@ I have learned important aspects such as:
 - UI/UX Layout
 - Website structure
 - Images on websites
+
+Work Flow
+<img width="1335" height="347" alt="Screenshot 2026-08-06 184300" src="https://github.com/user-attachments/assets/6c3d1a11-8353-4a85-9dbb-c72ce76cfb19" />
+
