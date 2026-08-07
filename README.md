@@ -96,9 +96,23 @@ These will include must visit places such as:
 Events
 Shows the travel events worth attending.
 
+Reservation
+
+The reservation module is where the users can input their data to create a travel reservation. It comes with a very basic form that takes in the necessary data.
+
+Features of the reservation module include:
+
+- Reservation form
+- User data input fields
+- Responsive form design
+- Reservation background images
+- Submit button
+- Two different layouts for mobile and desktop devices
+
 
 Contact
 Information about form to fill in to reach travel agencies.
+Showcases contact information like social medias, email and location.
  
 Assets
 The project contains the resources that are saved in the assets folder.
